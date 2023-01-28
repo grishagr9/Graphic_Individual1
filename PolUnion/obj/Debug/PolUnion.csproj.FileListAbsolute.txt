@@ -1,0 +1,11 @@
+C:\Users\Grisha\source\repos\PolUnion\PolUnion\obj\Debug\PolUnion.csproj.AssemblyReference.cache
+C:\Users\Grisha\source\repos\PolUnion\PolUnion\obj\Debug\PolUnion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Grisha\source\repos\PolUnion\PolUnion\obj\Debug\PolUnion.Properties.Resources.resources
+C:\Users\Grisha\source\repos\PolUnion\PolUnion\obj\Debug\PolUnion.csproj.GenerateResource.cache
+C:\Users\Grisha\source\repos\PolUnion\PolUnion\obj\Debug\PolUnion.csproj.CoreCompileInputs.cache
+C:\Users\Grisha\source\repos\PolUnion\PolUnion\obj\Debug\PolUnion.Form1.resources
+C:\Users\Grisha\source\repos\PolUnion\PolUnion\bin\Debug\PolUnion.exe.config
+C:\Users\Grisha\source\repos\PolUnion\PolUnion\bin\Debug\PolUnion.exe
+C:\Users\Grisha\source\repos\PolUnion\PolUnion\bin\Debug\PolUnion.pdb
+C:\Users\Grisha\source\repos\PolUnion\PolUnion\obj\Debug\PolUnion.exe
+C:\Users\Grisha\source\repos\PolUnion\PolUnion\obj\Debug\PolUnion.pdb
